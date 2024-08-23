@@ -14,7 +14,7 @@ In recent years, the tech job market has experienced significant shifts, driven 
 
 4. **Remote Work and Flexibility**: The remote work trend, which gained momentum during the COVID-19 pandemic, remains prevalent. Many tech companies are adopting hybrid or fully remote work models, offering greater flexibility to employees. This shift is reflected in the [Buffer's State of Remote Work](https://buffer.com/state-of-remote-work) report, which shows that remote work continues to be a major factor in job satisfaction and employee retention.
 
-These resources offer a comprehensive view of the current job market landscape and can be useful for understanding the broader context of the data analyzed in this project.
+This project looks to analyze skill demands, salary trends, and emerging patterns in the US tech job market to guide my personal career development and job search strategies as a new grad looking for full time roles.
 
 ## 1. What are the most demanded skills for the 3 most popular data jobs?
 
